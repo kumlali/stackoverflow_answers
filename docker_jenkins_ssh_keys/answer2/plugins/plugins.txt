@@ -1,0 +1,6 @@
+bouncycastle-api:2.16.0
+credentials:2.1.13
+structs:1.6
+ssh-agent:1.14
+ssh-credentials:1.13
+workflow-step-api:2.9
