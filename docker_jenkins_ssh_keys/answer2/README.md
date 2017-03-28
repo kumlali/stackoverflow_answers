@@ -8,5 +8,6 @@
 * Add `Execute shell` build step under `Build`
 * Use following command by replacing `<user>` and `<host>` with yours:
 
-    ssh -o StrictHostKeyChecking=no -l <user> <host> uname -a
+    `ssh -o StrictHostKeyChecking=no -l <user> <host> uname -a`
+    
 * Run the job
